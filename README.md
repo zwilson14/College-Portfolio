@@ -1,2 +1,2 @@
 # College-Portfolio
-A portfolio I had made in college showing various projects. Note - this was never completed since it was done before I had graduated.
+This is a portfolio I made back in college to take with me to interviews for my first job. Note - this was never completed since it was done before I had graduated.
